@@ -31,5 +31,5 @@ func NewServer() *Network {
 
 func (n *Network) StartServer() error {
 	log.Println("Starting server")
-	return n.engin.Run(":8080")
+	return n.engin.Run(":8081")
 }
