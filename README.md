@@ -1,5 +1,5 @@
-# Fastapi Chat Project
-> Fastapi의 웹소켓 기능을 활용하여 간단한 채팅서비스 구축
+# go_chat_project
+> go언어기반의 websocket을 활용한 채팅시스템 구축
 
 ![Static Badge](https://img.shields.io/badge/Go-%233776AB)
 ![Static Badge](https://img.shields.io/badge/Gin-%23009688)
